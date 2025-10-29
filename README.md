@@ -80,7 +80,7 @@ GROUP BY pe.product_name
 ORDER BY Average_carbon_footprint DESC
 LIMIT 10;
 ```
-<b>Resurlt: 
+<b>Resurlt: Top 10 industry groups with products
 |product_name|industry_group|Average_carbon_footprint|
 |------------|--------------|------------------------|
 |Wind Turbine G128 5 Megawats|"Consumer Durables, Household and Personal Products"|3718044.00|
