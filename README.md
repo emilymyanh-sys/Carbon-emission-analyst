@@ -121,7 +121,7 @@ GROUP BY pe.product_name
 ORDER BY Average_carbon_footprint DESC
 LIMIT 10;
 ```
-<b>Resurlt: Top 10 industry groups with products
+<b>Resurlt: Top 10 industry groups of Top 10 productswith highest countribution to Carbon Emissions <b>
 |product_name|industry_group|Average_carbon_footprint|
 |------------|--------------|------------------------|
 |Wind Turbine G128 5 Megawats|"Consumer Durables, Household and Personal Products"|3718044.00|
@@ -199,7 +199,7 @@ GROUP BY ig.country_name
 ORDER BY Sum_carbon_footprint  DESC
 LIMIT 10;
 ```
-<b>Resurlt:
+<b>Resurlt: Top 10 countries with the highest contribution to carbon emissions<b>
 |country_name|Sum_carbon_footprint|
 |------------|--------------------|
 |Spain|9786130.00|
