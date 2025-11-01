@@ -223,7 +223,7 @@ FROM product_emissions pe
 GROUP BY pe.year
 ORDER BY year
 ```
-<b>Resurlt:
+<b>Resurlt: Carbon emissions trend from 2013 to 2015 increased. However, from 2016 to 2017 there was a low trend.<b>
 |year|Sum_carbon_footprint|Avg_carbon_footprint|
 |----|--------------------|--------------------|
 |2013|503857.00|2399.32|
