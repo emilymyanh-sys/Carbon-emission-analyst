@@ -248,7 +248,7 @@ JOIN industry_groups ig
 GROUP BY ig.industry_group
 ORDER BY `2017` DESC;
 ```
-<b>Resurlt:Media is a industry groups has demonstrated the most notable decrease in carbon footprints (PCFs) over time
+<b>Resurlt: Media is a industry groups has demonstrated the most notable decrease in carbon footprints (PCFs) over time
 |industry_group|2013|2014|2015|2016|2017|
 |--------------|----|----|----|----|----|
 |Materials|200513.00|75678.00|0.00|88267.00|213137.00|
